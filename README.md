@@ -56,16 +56,3 @@ Soy un **estudiante de Ingeniería de Software** en búsqueda de conocimiento y 
   </tr>
 </table>
 
----
-
-### Mi Travesía de Código (GitHub Stats):
-
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnaLizca07&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
-
-
----
-
-<p align="center">
-  Conéctate conmigo:<br>
-  <a href="www.linkedin.com/in/ana-lucelly-lizcano-986b6b295" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30" /></a>
-</p>

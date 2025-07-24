@@ -9,9 +9,9 @@ Soy un **estudiante de Ingeniería de Software** en búsqueda de conocimiento y 
 
 ### Mi Cuaderno de Misiones (Lo que me gusta hacer):
 
-* 💻 **Forjar Código:** Disfruto transformando ideas en aplicaciones robustas y eficientes.
-* 📚 **Descifrar Antiguos Textos (Aprender):** Siempre estoy explorando nuevas tecnologías y patrones de diseño.
-* 🚀 **Construir Templos Digitales:** Me encanta dar forma a proyectos que sean útiles y que resistan el paso del tiempo.
+* **Forjar Código:** Disfruto transformando ideas en aplicaciones robustas y eficientes.
+* **Descifrar Antiguos Textos (Aprender):** Siempre estoy explorando nuevas tecnologías y patrones de diseño.
+* **Construir Templos Digitales:** Me encanta dar forma a proyectos que sean útiles y que resistan el paso del tiempo.
 
 ---
 
@@ -35,6 +35,10 @@ Soy un **estudiante de Ingeniería de Software** en búsqueda de conocimiento y 
       <img src="https://skillicons.dev/icons?i=postgres" width="45" /><br />
       <small>PostgreSQL</small>
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" /><br />
+      <small>Docker</small>
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -44,6 +48,10 @@ Soy un **estudiante de Ingeniería de Software** en búsqueda de conocimiento y 
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nuxt" width="45" /><br />
       <small>Nuxt.js</small>
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" /><br />
+      <small>React</small>
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" /><br />

@@ -74,8 +74,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnaLizca07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
+<img src="https://github-profile-trophy-silk-two.vercel.app/?username=AnaLizca07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
 ---

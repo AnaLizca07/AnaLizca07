@@ -74,7 +74,7 @@
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-silk-two.vercel.app/?username=AnaLizca07&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaLizca07&bg_color=0d1117&color=FF8DC7&line=FF8DC7&point=ffffff&area=true&hide_border=true" width="95%" />
 </div>
 
 ---

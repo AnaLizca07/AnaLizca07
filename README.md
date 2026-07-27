@@ -22,8 +22,6 @@
 > CLASE ......... Ingeniera de Software (en formacion)
 > REGION ........ Armenia, Quindio - Colombia
 > MISION ........ Convertir ideas en software que dure
-> ITEM ACTUAL ... Kotlin + Android
-> HP ............ [##########] recargando con cafe
 ```
 
 > *"El coraje no necesita ser recordado, porque nunca se olvida."* — **The Legend of Zelda**
@@ -67,8 +65,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnaLizca07&show_icons=true&hide_border=true&title_color=FF8DC7&icon_color=FF8DC7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLizca07&layout=compact&hide_border=true&title_color=FF8DC7&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-pearl-theta-83.vercel.app/api?username=AnaLizca07&show_icons=true&hide_border=true&title_color=FF8DC7&icon_color=FF8DC7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats-pearl-theta-83.vercel.app/api/top-langs/?username=AnaLizca07&layout=compact&hide_border=true&title_color=FF8DC7&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" />
 
 <br/><br/>
 
@@ -105,8 +103,8 @@
 ### 🌸 ¡Hablemos!
 
 <a href="https://github.com/AnaLizca07"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FF8DC7" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF8DC7" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF8DC7" /></a>
+<a href="https://www.linkedin.com/in/ana-lucelly-lizcano-986b6b295/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF8DC7" /></a>
+<a href="mailto:analucellylizcanoacero@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=FF8DC7" /></a>
 
 <br/><br/>
 
